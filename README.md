@@ -10,8 +10,8 @@ This is what it looks like!
 
 Sometimes, you get an irresistible urge to put your mouse over a webpage button.
 
-<img src="/img/js-rotated-1.png" alt="A rotating button" width="682”/>
+<img src="/img/js-rotated-1.png" alt="A rotating button" width="682"/>
 
 JavaScript is needed to run this webpage properly!
 
-<img src="/img/no-js-1.png" alt="When JavaScript is disabled..." width="674”/>
+<img src="/img/no-js-1.png" alt="When JavaScript is disabled..." width="674"/>
