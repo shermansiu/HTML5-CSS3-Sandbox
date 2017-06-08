@@ -6,12 +6,12 @@ I first made this when HTML5 and CSS3 came out.
 ## Screenshots
 This is what it looks like!
 
-<img src="/img/js-2.png" alt=“Default webpage“ width="682"/>
+<img src="/img/js-2.png" alt=“Default webpage“ width="341"/>
 
 Sometimes, you get an irresistible urge to put your mouse over a webpage button.
 
-<img src="/img/js-rotated-1.png" alt="A rotating button" width="682"/>
+<img src="/img/js-rotated-1.png" alt="A rotating button" width="341"/>
 
 JavaScript is needed to run this webpage properly!
 
-<img src="/img/no-js-1.png" alt="When JavaScript is disabled..." width="674"/>
+<img src="/img/no-js-1.png" alt="When JavaScript is disabled..." width="337"/>
