@@ -1,7 +1,9 @@
 # HTML5-CSS3-Sandbox
 
-A HTML5 and CSS3 experiment
+A HTML5 and CSS3 experiment.
+
 I first made this when HTML5 and CSS3 came out.
+Specifically, this project began and ended in January 2013.
 
 ## Screenshots
 This is what it looks like!
